@@ -64,5 +64,65 @@ Definir qual Projeto/Obra a inspeção estará vinculada, assim como seus subní
 ![Screenshot_20230412-074327](https://user-images.githubusercontent.com/130560587/231455069-bc6b96e8-0f8c-4ef5-95ce-6a50111ac22e.jpg)
 ![Screenshot_20230412-074337](https://user-images.githubusercontent.com/130560587/231455070-b64b47b8-954f-4726-8789-3a66ca772f2f.jpg)
 
+# 9. Verificação dos Itens Conformes e Não Conformes
+
+Iniciar o preenchimento das respostas aos itens que compõe a lista pré selecionada das perguntas e/ou itens de verificação relacionados às seleções informadas nos passos anteriores.
+As respostas selecionadas irão aparecendo em uma lista logo abaixo das perguntas e/ou itens de verificação, indicando qual a alternativa informada para cada item.
+
+![Screenshot_20230412-074357](https://user-images.githubusercontent.com/130560587/231457444-0aa5b541-c608-40c6-9e63-5a4097d030e7.jpg)
+
+Quando houver alguma Não Conformirdade apontada, irá aparecer a opção de tirar/buscar na galerias as fotos para evidenciar a NC encontrada, com a opção existente também de inserção de Comentários acerca da Inspeção como um todo. 
+
+![Screenshot_20230412-074435](https://user-images.githubusercontent.com/130560587/231457561-da30d71b-c91f-4a5f-a8e8-7f310fe84e82.jpg)
+![Screenshot_20230412-074507](https://user-images.githubusercontent.com/130560587/231457567-be929c44-85c6-4a08-a782-8af16101a727.jpg)
+![Screenshot_20230412-074626](https://user-images.githubusercontent.com/130560587/231457569-cb806be5-6e5a-42e2-ad68-a2fef71f06ff.jpg)
+
+# 10. Criação de ações para as Não Conformidades encontradas
+
+Selecionar o ícone com sinal de "+" ao lado do campo "Ações", para criação de uma nova ação.
+
+![Screenshot_20230412-074657](https://user-images.githubusercontent.com/130560587/231458800-2b87cc94-11b4-4098-bc39-11fdc47dbd13.jpg)
+
+Definir o "Status" da mesma. Caso já tenha sido finalizada de imediato, esteja em andamento ou por algum motivo tenha sido cancelada por falha no apontamento. Após a definição do "Status", colocar uma "data de vencimento" para a "Ação", assim como descrever acerca da resolução dessa "Ação" criada. 
+
+![Screenshot_20230412-074728](https://user-images.githubusercontent.com/130560587/231459572-99b64e48-9d57-4c31-9f55-5c669ff15f9b.jpg)
+
+Após esse preenchimento, vincular e/ou não vincular à uma Não Conformidade(lista suspensa existente com os números e descrição de cada uma) encontrada na "Inspeção"realizada. Na sequência, atribuir/endereçar à um responsável pela tratativa da ação e/ou pelo responsável do processo. 
+
+![Screenshot_20230412-074736](https://user-images.githubusercontent.com/130560587/231460444-215da16a-1e5b-4bb1-aa4c-7ac7df0a55ad.jpg)
+![Screenshot_20230412-074803](https://user-images.githubusercontent.com/130560587/231460468-3f0ccf64-c235-4ffb-8bb1-353ee0587d24.jpg)
+
+
+# 11. Conclusão da Inspeção
+
+Definir a "Situação" dessa inspeção afim de classifcar quanto à natureza da execução. Se ela está "Em Andamento", "Cancelada ou "Concluída". Após essas definições, clicar no botão "Enviar". 
+
+![Screenshot_20230412-074814](https://user-images.githubusercontent.com/130560587/231460977-4bc3c49a-3e42-4c45-9979-d2543764a097.jpg)
+![Screenshot_20230412-074827](https://user-images.githubusercontent.com/130560587/231460982-2fff39d6-68b2-49ac-97d4-5257c78698e4.jpg)
+
+É de suma importância, aguardar o envio ser concluído por completo, afim de garantir que a "Inspeção" foi finalizada e enviada efetivamente(juntamente com os arquivos em anexo) para a base de dados do Sistema. 
+
+![Screenshot_20230412-074837](https://user-images.githubusercontent.com/130560587/231461525-c3c58eda-6cb8-43db-9aa1-19555b114828.jpg)
+![Screenshot_20230412-074842](https://user-images.githubusercontent.com/130560587/231461529-651d4d3f-ad5a-481a-a0d6-bf5097833de3.jpg)
+
+# 12. Consulta aos arquivos de Inspeções enviados
+
+Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados, juntamente com a informação da data/hora do envio, basta clicar no ícone "Todas as cx." no canto inferior da tela no formato de "Caixa + uma bandeirola". 
+
+![Screenshot_20230412-074920](https://user-images.githubusercontent.com/130560587/231462537-72820802-3cce-4f10-b09b-e16608172744.jpg)
+
+
+
+#A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
+
+OBRIGADO 
+
+
+
+
+
+
+
+
 
 
