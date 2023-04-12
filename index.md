@@ -1,5 +1,5 @@
 ![Imagem3](https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png)
-#  Manual do Usuário - Click Segurança teste
+#  Manual do Usuário - Click Segurança teste 2
 
 # Introdução
 Bem-vindo ao manual de treinamento do aplicativo mobile da GlobalCad, o Click Segurança. Este manual foi desenvolvido para ajudá-lo a aprender a utilizar todas as funcionalidades do nosso software de forma rápida e eficiente.
