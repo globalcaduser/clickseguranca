@@ -159,7 +159,12 @@ Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/
 
 #A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
 
-OBRIGADO 
+
+#OBRIGADO 
+
+#Leandro U. Vettori - Gestão de Contas/Comercial
+#Telefone: (31)98312-2222
+#Email: leandro.vettori@globalcad.com.br
 
 
 
