@@ -100,7 +100,7 @@ Definir qual Projeto/Obra a inspeção estará vinculada, assim como seus subní
 # Selecionar Tipo e Descrição do Ambiente - caso seja aplicável
 [Voltar ao topo](#sumário)
 
-Descrever o tipo de ambiente e qual sua característica, especificidade. Caso deseje, pode inserir observações acerca do Ambiente também. 
+Descrever o tipo de ambiente e qual sua característica, especificidade. Caso deseje, o executor pode inserir observações acerca do Ambiente também. 
 
 <img src="https://user-images.githubusercontent.com/130560587/231774340-38ca17e9-d099-444e-9a27-045f25f84a69.jpg" height="350">
 
@@ -125,7 +125,7 @@ Selecionar o ícone com sinal de "+" ao lado do campo "Ações", para criação 
 
 <img src="https://user-images.githubusercontent.com/130560587/231458800-2b87cc94-11b4-4098-bc39-11fdc47dbd13.jpg" height="350">
 
-Definir o "Status" da mesma. Caso já tenha sido finalizada de imediato, esteja em andamento ou por algum motivo tenha sido cancelada por falha no apontamento. Após a definição do "Status", colocar uma "data de vencimento" para a "Ação", assim como descrever acerca da resolução dessa "Ação" criada. 
+Definir o "Status" da Ação, e após a definição do "Status", colocar uma "data de vencimento" para a "Ação", assim como descrever acerca da resolução dessa "Ação" criada. 
 
 <img src="https://user-images.githubusercontent.com/130560587/231459572-99b64e48-9d57-4c31-9f55-5c669ff15f9b.jpg" height="350">
 
@@ -133,7 +133,6 @@ Após esse preenchimento, vincular e/ou não vincular à uma Não Conformidade(l
 
 <img src="https://user-images.githubusercontent.com/130560587/231460444-215da16a-1e5b-4bb1-aa4c-7ac7df0a55ad.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231460468-3f0ccf64-c235-4ffb-8bb1-353ee0587d24.jpg" height="350">
-
 
 # Conclusão da Inspeção
 [Voltar ao topo](#sumário)
