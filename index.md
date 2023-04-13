@@ -165,7 +165,7 @@ Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/
 ## Leandro U. Vettori - Gestão de Contas/Comercial
 ## Telefone: (31)98312-2222
 ## Email: leandro.vettori@globalcad.com.br
-<img src="https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png" height="150">
+<img src="https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png" height="50">
 
 
 
