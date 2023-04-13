@@ -11,6 +11,7 @@
 - [Definir ou Buscar Localização](#definir-ou-buscar-localização)
 - [Selecionar Classificação e Abrangência da Inspeção](#selecionar-classificação-e-abrangência-da-inspeção)
 - [Selecionar Projeto - Obra](#selecionar-projeto-ou-obra)
+- [Selecionar Tipo e Descrição do Ambiente - caso seja aplicável](#selecionar-tipo-e-descrição-do-ambiente)
 - [Verificação dos Itens Conformes e Não Conformes](#verificação-dos-itens-conformes-e-não-conformes)
 - [Criação de ações para as Não Conformidades encontradas](#criação-de-ações-para-as-não-conformidades-encontradas)
 - [Conclusão da Inspeção](#conclusão-da-inspeção)
@@ -95,6 +96,13 @@ Definir qual Projeto/Obra a inspeção estará vinculada, assim como seus subní
 <img src="https://user-images.githubusercontent.com/130560587/231455066-3887c9e4-4d1d-480b-a14f-5c610a7fa526.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231455069-bc6b96e8-0f8c-4ef5-95ce-6a50111ac22e.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231455070-b64b47b8-954f-4726-8789-3a66ca772f2f.jpg" height="350">
+
+# Selecionar Tipo e Descrição do Ambiente - caso seja aplicável
+[Voltar ao topo](#sumário)
+
+Descrever o tipo de ambiente e qual sua característica, especificidade. Caso deseje, pode inserir observações acerca do Ambiente também. 
+
+<img src="https://user-images.githubusercontent.com/130560587/231774340-38ca17e9-d099-444e-9a27-045f25f84a69.jpg" height="350">
 
 # Verificação dos Itens Conformes e Não Conformes
 [Voltar ao topo](#sumário)
