@@ -9,7 +9,7 @@
 - [Selecionar Tipo de Inspeção ou Análise de Risco](#selecionar-tipo-de-inspeção-ou-análise-de-risco)
 - [Selecionar Guia e Empresa Executora](#selecionar-guia-e-empresa-executora)
 - [Definir ou Buscar Localização](#definir-ou-buscar-localização)
-- [Selecionar Classificação ou Abrangência da Inspeção](#selecionar-classificação-ou-abrangência-da-inspeção)
+- [Selecionar Classificação e Abrangência da Inspeção](#selecionar-classificação-e-abrangência-da-inspeção)
 - [Selecionar Projeto - Obra](#selecionar-projeto-ou-obra)
 - [Verificação dos Itens Conformes e Não Conformes](#verificação-dos-itens-conformes-e-não-conformes)
 - [Criação de ações para as Não Conformidades encontradas](#criação-de-ações-para-as-não-conformidades-encontradas)
@@ -80,7 +80,7 @@ No campo "Local Inspeção" usar uma das duas formas disponíveis de definir a l
 <img src="https://user-images.githubusercontent.com/130560587/231453473-7960766e-e6ca-46d6-8cc1-bc2069132954.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231453479-4e58d164-eba6-48b2-a282-ac7e17df4967.jpg" height="350">
 
-# Selecionar Classificação ou Abrangência da Inspeção
+# Selecionar Classificação e Abrangência da Inspeção
 [Voltar ao topo](#sumário)
 
 Definição da Classificação da Inspeção, e na sequencia do tipo de Abrangência da mesma.
