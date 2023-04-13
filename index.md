@@ -1,5 +1,5 @@
    ![Imagem3](https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png)
-#  Manual do Usuário - Click Segurança 
+#  Manual do Usuário - Click Segurança - Inspeção de Segurança
 
 ## [Sumário](#sumário)
 - [Introdução](#introdução)
