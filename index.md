@@ -66,6 +66,9 @@ Selecione o tipo de Guia a ser utilizado, de acordo com as características da I
 
 <img src="https://user-images.githubusercontent.com/130560587/231449824-35630862-0d24-4649-845a-5c3a679166a9.jpg" height="350">
 
+<img src="https://user-images.githubusercontent.com/130560587/232848032-e665b7fc-188c-4e87-b589-a9d14b22b818.jpg" height="350">
+
+
 # Selecionar Executor
 [Voltar ao topo](#sumário)
 
@@ -94,9 +97,12 @@ Definição da Classificação da Inspeção, e na sequencia do tipo de Abrangê
 
 Definir qual Projeto/Obra a inspeção estará vinculada, assim como seus subníveis(Nivel 1, 2 - Ex: Condomínio, Bloco, Sub Obra/Projeto e etc) de referência da Inspeção. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231455066-3887c9e4-4d1d-480b-a14f-5c610a7fa526.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231455069-bc6b96e8-0f8c-4ef5-95ce-6a50111ac22e.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231455066-3887c9e4-4d1d-480b-a14f-5c610a7fa526.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231455069-bc6b96e8-0f8c-4ef5-95ce-6a50111ac22e.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231455070-b64b47b8-954f-4726-8789-3a66ca772f2f.jpg" height="350">
+
+Definir Gerência(se necessário).
+
+<img src="https://user-images.githubusercontent.com/130560587/232848352-6c6a9436-d05c-4f1a-a806-bdb539b9c966.jpg" height="350">
 
 # Selecionar Tipo e Descrição do Ambiente - caso seja aplicável
 [Voltar ao topo](#sumário)
