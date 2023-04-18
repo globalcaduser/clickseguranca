@@ -26,6 +26,7 @@ Nosso objetivo é fornecer a você as informações necessárias para que possa 
 Este manual de treinamento foi elaborado com uma linguagem simples e didática, dividido em módulos que o guiarão passo a passo em todo o processo de aprendizagem. Além disso, incluímos exemplos práticos e dicas úteis que o ajudarão a aproveitar ao máximo as funcionalidades do software.
 Este é um guia vivo e dinâmico, que será atualizado regularmente para manter as informações sempre atualizadas e relevantes. Estamos ansiosos para ajudá-lo a se tornar um utilizador independente no Click Segurança e esperamos que este manual seja útil e eficaz em sua jornada de aprendizado.
 
+
 # Baixando o APP GlobalCad
 [Voltar ao topo](#sumário)
 
@@ -37,6 +38,7 @@ Segue o link: https://play.google.com/store/apps/details?id=globalcad.services&h
 4. Na página de informações do aplicativo, você pode ler mais detalhes sobre o aplicativo, como as avaliações e comentários de outros usuários, a descrição do aplicativo, imagens, entre outros. Certifique-se de ler tudo antes de fazer o download.
 5. Se quiser continuar e baixar o aplicativo, clique no botão “Instalar” ou “Baixar”. Em seguida, você verá uma mensagem que pede permissão para que o aplicativo acesse determinadas informações ou recursos do seu dispositivo, como a câmera, a galeria de fotos ou o microfone. Leia com atenção as informações exibidas na tela e, se estiver tudo bem, clique em “Aceitar”.
 
+
 # Acesso Inicial
 [Voltar ao topo](#sumário)
 
@@ -44,29 +46,29 @@ Na tela Inicial, coloque seu login/usuário e sua senha cadastrada.
 
 <img src="https://user-images.githubusercontent.com/130560587/231446980-01c77713-2e26-4efd-8ac7-974f225e05ad.jpg" height="350">
 
+
 # Selecionar Módulo
 [Voltar ao topo](#sumário)
 
 Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231448108-43cbc200-b4a7-4adf-83de-2deb7cb78f5e.jpg" height="350">   
+<img src="https://user-images.githubusercontent.com/130560587/231448108-43cbc200-b4a7-4adf-83de-2deb7cb78f5e.jpg" height="350"> 
+
 
 # Selecionar Tipo de Inspeção/Guia ou Análise de Risco
 [Voltar ao topo](#sumário)
 
 Selecione o Tipo de Inspeção/Guia a ser realizada e as suas "subfamílias" relacionadas. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231449256-de428dcd-39a5-4d1b-8d34-2c1aab3d4c47.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231449264-7103a273-b54c-4dc2-9461-099179226cef.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231449256-de428dcd-39a5-4d1b-8d34-2c1aab3d4c47.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231449264-7103a273-b54c-4dc2-9461-099179226cef.jpg" height="350">
+
 
 # Selecionar Guia e Empresa Executora/Inspecionada
 [Voltar ao topo](#sumário)
 
 Selecione o tipo de Guia a ser utilizado, de acordo com as características da Inspeção a ser realizada. E na sequência selecione a Empresa Executora relacionada à execução da Inspeção.
 
-<img src="https://user-images.githubusercontent.com/130560587/231449824-35630862-0d24-4649-845a-5c3a679166a9.jpg" height="350">
-
-<img src="https://user-images.githubusercontent.com/130560587/232848032-e665b7fc-188c-4e87-b589-a9d14b22b818.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231449824-35630862-0d24-4649-845a-5c3a679166a9.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/232848032-e665b7fc-188c-4e87-b589-a9d14b22b818.jpg" height="350">
 
 
 # Selecionar Executor
@@ -76,14 +78,15 @@ Selecione na lista suspensa, o nome do executor responsável pela Inspeção.
 
 <img src="https://user-images.githubusercontent.com/130560587/231450608-d6e760e6-15a6-46cb-bee6-20880d5b0783.jpg" height="350">
 
+
 # Definir ou Buscar Localização da Inspeção/Análise
 [Voltar ao topo](#sumário)
 
 No campo "Local Inspeção" usar uma das duas formas disponíveis de definir a localização: Seja buscar manualmente utilizando a "lupa" e marcar no mapa a localização/editar o endereço, ou utilizar o ícone em formato de "mira" para buscar a localização via georeferenciamento. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231453021-66eec246-2056-49c2-b606-4374c1ab3c74.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231453473-7960766e-e6ca-46d6-8cc1-bc2069132954.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231453021-66eec246-2056-49c2-b606-4374c1ab3c74.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231453473-7960766e-e6ca-46d6-8cc1-bc2069132954.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231453479-4e58d164-eba6-48b2-a282-ac7e17df4967.jpg" height="350">
+
 
 # Selecionar Classificação e Abrangência da Inspeção
 [Voltar ao topo](#sumário)
@@ -91,6 +94,7 @@ No campo "Local Inspeção" usar uma das duas formas disponíveis de definir a l
 Definição da Classificação da Inspeção, e na sequencia do tipo de Abrangência da mesma.
 
 <img src="https://user-images.githubusercontent.com/130560587/231454063-ffb3db70-4e01-4299-b368-e269de5aa47f.jpg" height="350">
+
 
 # Selecionar Projeto/Obra ou Gerência
 [Voltar ao topo](#sumário)
@@ -104,12 +108,14 @@ Definir Gerência(se necessário).
 
 <img src="https://user-images.githubusercontent.com/130560587/232848352-6c6a9436-d05c-4f1a-a806-bdb539b9c966.jpg" height="350">
 
+
 # Selecionar Tipo e Descrição do Ambiente - caso seja aplicável
 [Voltar ao topo](#sumário)
 
 Descrever o tipo de ambiente e qual sua característica, especificidade. Caso deseje, o executor pode inserir observações acerca do Ambiente também. 
 
 <img src="https://user-images.githubusercontent.com/130560587/231774340-38ca17e9-d099-444e-9a27-045f25f84a69.jpg" height="350">
+
 
 # Verificação dos Itens Conformes e Não Conformes
 [Voltar ao topo](#sumário)
@@ -121,9 +127,9 @@ As respostas selecionadas irão aparecendo em uma lista logo abaixo das pergunta
 
 Quando houver alguma Não Conformirdade apontada, irá aparecer a opção de tirar/buscar na galerias as fotos para evidenciar a NC encontrada, com a opção existente também de inserção de Comentários acerca da Inspeção como um todo. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231457561-da30d71b-c91f-4a5f-a8e8-7f310fe84e82.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231457567-be929c44-85c6-4a08-a782-8af16101a727.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231457561-da30d71b-c91f-4a5f-a8e8-7f310fe84e82.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231457567-be929c44-85c6-4a08-a782-8af16101a727.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231457569-cb806be5-6e5a-42e2-ad68-a2fef71f06ff.jpg" height="350">
+
 
 # Criação de ações para as Não Conformidades encontradas
 [Voltar ao topo](#sumário)
@@ -138,21 +144,20 @@ Definir o "Status" da Ação, e após a definição do "Status", colocar uma "da
 
 Após esse preenchimento, vincular e/ou não vincular à uma Não Conformidade(lista suspensa existente com os números e descrição de cada uma) encontrada na "Inspeção"realizada. Na sequência, atribuir/endereçar à um responsável pela tratativa da ação e/ou pelo responsável do processo. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231460444-215da16a-1e5b-4bb1-aa4c-7ac7df0a55ad.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231460468-3f0ccf64-c235-4ffb-8bb1-353ee0587d24.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231460444-215da16a-1e5b-4bb1-aa4c-7ac7df0a55ad.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231460468-3f0ccf64-c235-4ffb-8bb1-353ee0587d24.jpg" height="350">
+
 
 # Conclusão da Inspeção
 [Voltar ao topo](#sumário)
 
 Definir a "Situação" dessa inspeção afim de classifcar quanto à natureza da execução. Se ela está "Em Andamento", "Cancelada ou "Concluída". Após essas definições, clicar no botão "Enviar". 
 
-<img src="https://user-images.githubusercontent.com/130560587/231460977-4bc3c49a-3e42-4c45-9979-d2543764a097.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231460982-2fff39d6-68b2-49ac-97d4-5257c78698e4.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231460977-4bc3c49a-3e42-4c45-9979-d2543764a097.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231460982-2fff39d6-68b2-49ac-97d4-5257c78698e4.jpg" height="350">
 
 É de suma importância, aguardar o envio ser concluído por completo, afim de garantir que a "Inspeção" foi finalizada e enviada efetivamente(juntamente com os arquivos em anexo) para a base de dados do Sistema. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231461525-c3c58eda-6cb8-43db-9aa1-19555b114828.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/231461529-651d4d3f-ad5a-481a-a0d6-bf5097833de3.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/231461525-c3c58eda-6cb8-43db-9aa1-19555b114828.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/231461529-651d4d3f-ad5a-481a-a0d6-bf5097833de3.jpg" height="350">
+
 
 # Consulta aos arquivos de Inspeções enviados
 [Voltar ao topo](#sumário)
