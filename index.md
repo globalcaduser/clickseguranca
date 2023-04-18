@@ -50,15 +50,15 @@ Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check Lis
 
 <img src="https://user-images.githubusercontent.com/130560587/231448108-43cbc200-b4a7-4adf-83de-2deb7cb78f5e.jpg" height="350">   
 
-# Selecionar Tipo de Inspeção ou Análise de Risco
+# Selecionar Tipo de Inspeção/Guia ou Análise de Risco
 [Voltar ao topo](#sumário)
 
-Selecione o Tipo de Inspeção a ser realizada e as suas "subfamílias" relacionadas. 
+Selecione o Tipo de Inspeção/Guia a ser realizada e as suas "subfamílias" relacionadas. 
 
 <img src="https://user-images.githubusercontent.com/130560587/231449256-de428dcd-39a5-4d1b-8d34-2c1aab3d4c47.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/231449264-7103a273-b54c-4dc2-9461-099179226cef.jpg" height="350">
 
-# Selecionar Guia e Empresa Executora
+# Selecionar Guia e Empresa Executora/Inspecionada
 [Voltar ao topo](#sumário)
 
 Selecione o tipo de Guia a ser utilizado, de acordo com as características da Inspeção a ser realizada. E na sequência selecione a Empresa Executora relacionada à execução da Inspeção.
@@ -72,7 +72,7 @@ Selecione na lista suspensa, o nome do executor responsável pela Inspeção.
 
 <img src="https://user-images.githubusercontent.com/130560587/231450608-d6e760e6-15a6-46cb-bee6-20880d5b0783.jpg" height="350">
 
-# Definir ou Buscar Localização
+# Definir ou Buscar Localização da Inspeção/Análise
 [Voltar ao topo](#sumário)
 
 No campo "Local Inspeção" usar uma das duas formas disponíveis de definir a localização: Seja buscar manualmente utilizando a "lupa" e marcar no mapa a localização/editar o endereço, ou utilizar o ícone em formato de "mira" para buscar a localização via georeferenciamento. 
@@ -88,7 +88,7 @@ Definição da Classificação da Inspeção, e na sequencia do tipo de Abrangê
 
 <img src="https://user-images.githubusercontent.com/130560587/231454063-ffb3db70-4e01-4299-b368-e269de5aa47f.jpg" height="350">
 
-# Selecionar Projeto ou Obra
+# Selecionar Projeto/Obra ou Gerência
 [Voltar ao topo](#sumário)
 
 Definir qual Projeto/Obra a inspeção estará vinculada, assim como seus subníveis(Nivel 1, 2 - Ex: Condomínio, Bloco, Sub Obra/Projeto e etc) de referência da Inspeção. 
